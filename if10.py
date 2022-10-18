@@ -26,4 +26,4 @@ def main(temp):
     else:
         message = 'Very Hot'
 
-    return
+    return message
